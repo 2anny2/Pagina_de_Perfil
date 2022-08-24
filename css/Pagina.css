@@ -1,0 +1,187 @@
+header{
+    background-color: grey;
+    display: flex;
+    justify-content: space-around;
+    color: whitesmoke;
+    align-items: center;
+    font-family: 'Patrick Hand', cursive;
+    margin: 0 25em;
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+    padding: auto;
+}
+
+h1{
+    margin: 15px 0;
+    font-size: 2em;
+}
+
+.links{
+    text-decoration: none;
+    color: whitesmoke;
+    margin: 0 10px;
+    font-size: 1.3em;
+}
+
+button{
+    color: whitesmoke;
+    background-color: #18a0b4;
+    border: none;
+    box-shadow: 7px 7px black;
+    margin: 0px 35px;
+    width: 100px;
+    height: 30px;
+    font-size: 17px;
+}
+
+.container{
+    background-color: aliceblue;
+    width: 90%;
+    margin: 0 auto;
+    font-family: 'Patrick Hand', cursive;
+    display: flex;
+    justify-content: center;
+}
+
+.columna_1{
+    width: 30%;
+    margin: 1% 1%; 
+}
+
+.encabezado_1{
+    margin: 0%;
+    padding: 10%;
+}
+
+.seccion_1 {
+    background-color: #17a2b7;
+    border: grey solid;
+    }
+
+h3, .contenido1, cuerpo_2{ 
+    margin-left: 3%;
+}
+
+.cuerpo_1{
+    background-color: whitesmoke;
+    margin: 0 auto;
+    padding: 1%;
+}
+
+.name{
+    margin-top: 5%;
+    padding: auto;
+    margin-left: 2%;
+}
+
+.user{
+    background-color: whitesmoke;
+    border-radius: 50%;
+    position: absolute;
+    top: 19%;
+    left: 28.5%;
+    padding: 5px; 
+}
+
+.seccion_2{
+    background-color: whitesmoke;
+    margin-top: 20px;
+    border: grey solid;
+}
+
+h5{
+    background-color: grey;
+    margin: 0%;
+    padding: 2%;
+    color: white;
+    font-size: 1em;
+}
+
+.cv{
+    margin: 2%;
+}
+
+.columna_2{
+    width: 20%;
+    margin: 1% 1%;
+}
+
+.seccion_3 {
+    background-color: whitesmoke;
+    border: grey solid;
+    height: 26%;
+    overflow-y: visible;
+}
+
+
+.Todd_Phill{
+    display: flex;
+    align-items: center;
+    margin: 2%;
+}
+
+.foto{
+    margin-right: 1em;
+    border-radius: 50%;
+    margin-left: 2%;
+    width: 10%;
+    height: 15%;
+}
+
+.aceptar, .rechazar{
+    padding: 2%;
+    width: 7%;
+    height: 2%;
+}
+
+.aceptar{
+    margin-left: 48%;
+}
+.seccion_4{
+    background-color: whitesmoke;
+    margin-top: 20px;
+    border: grey solid;
+}
+
+.avatar{
+    display: flex;
+    margin: 3%;
+    align-items: center;
+}
+
+.boton_1{
+    background-color: #cccccc;
+    border-radius: 60%;
+    box-shadow: none;
+    border: grey solid;
+    color: black;
+    font-family: 'Patrick Hand', cursive;
+    font-size: 1em;
+    width: 12%;
+    margin-left: 0;
+}
+
+.boton_2{
+    background-color: #cccccc;
+    border-radius: 60%;
+    box-shadow: none;
+    border: grey solid;
+    color: black;
+    font-family: 'Patrick Hand', cursive;
+    font-size: 1em;
+    width: 22%;
+    margin-left: 0;
+}
+
+.ver{
+    border-top: grey solid;
+}
+
+.links2, .rueda{
+    color: #486d93;
+    margin-left: 3%;
+    text-decoration: underline;
+}
